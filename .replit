@@ -1,0 +1,1 @@
+run = "sh pzc.sh main.c; ./main"
